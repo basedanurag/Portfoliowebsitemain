@@ -3,7 +3,6 @@ import { Container, Row, Col } from "react-bootstrap";
 import Wrapper from "../Wrapper.js";
 import Aboutcard from "./AboutCard";
 import Tilt from "react-parallax-tilt";
-import { publicationList } from "../../data/publicationList.js";
 import {motion} from 'framer-motion';
 import Edu from "./Edu.js";
 import aktu from "../../Assets/Images/Unis/aktu.png";
