@@ -6,12 +6,7 @@ import {
     DiWindows,
     DiPhotoshop,
     DiGithub,
-    DiNodejs,
-    DiGit,
-    DiHtml5,
-    DiCss3,
-    DiBootstrap
-} from "react-icons/di";
+  } from "react-icons/di";
 
 function Tools() {
   return (
