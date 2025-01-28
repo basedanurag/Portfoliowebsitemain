@@ -5,7 +5,7 @@ import VerifiedIcon from '@mui/icons-material/Verified';
 import LanguageIcon from '@mui/icons-material/Language';
 import StarPurple500Icon from '@mui/icons-material/StarPurple500';
 import "./Info.css"
-
+// this will change the output of leetcode container
 const Info = () => {
   return (
     <div className="info-container" >
