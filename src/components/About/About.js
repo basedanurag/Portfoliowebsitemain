@@ -16,7 +16,7 @@ import Info from "./Info.js";
 
 //use for editing the education and leetcode  container
 function About() {
-  const pubList = (publicationList);
+ 
 
   return (
     <Wrapper>
