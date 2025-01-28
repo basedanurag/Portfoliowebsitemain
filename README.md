@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h2 align="center">
   Portfolio Website<br/>
 </h2>
@@ -40,4 +41,8 @@ Clone down this repository. You will need `node.js` and `git` installed globally
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.
+=======
+# Portfoliowebsitemain
+npm install /n npm start
+>>>>>>> 8c433a4dff991341813c2d8ff54d56a01b5c5fb4
 
