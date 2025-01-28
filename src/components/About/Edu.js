@@ -26,7 +26,7 @@ export default function Edu(props){
                             <span className="about-text-bold about-text-col">{props.degree}</span> {props.specialization}
                         </Col>
                         <Col className="about-edu-rows">
-                            <span className="about-text-bold about-text-col">CGPA: </span> {props.cgpa}
+                            <span className="about-text-bold about-text-col">SGPA: </span> {props.cgpa}
                         </Col>
                         <Col className="about-edu-rows">
                             <span className="about-text-bold about-text-col">Location: </span> {props.location}

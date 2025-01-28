@@ -1,7 +1,7 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
 import { ImPointRight } from "react-icons/im";
-
+// this will edit the about front text
 function AboutCard() {
   return (
     <Card className="quote-card-view" >
@@ -23,7 +23,7 @@ function AboutCard() {
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Reading
+              <ImPointRight /> Gaming
             </li>
             <li className="about-activity">
               <ImPointRight /> Leetcoding
