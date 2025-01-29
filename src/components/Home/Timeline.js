@@ -76,7 +76,7 @@ Our team's hard work, strategic thinking, and collaboration led us to victory, m
                             <div className="timeline-content">
                                 <div className="timeline-title company">
                                     <BusinessIcon className="timeline-icon timeline-reg"/>
-                                    Coming Soom
+                                    Coming soon
                                 </div>
                                 <div className="timeline-title ">
                                     <WorkspacePremiumIcon className="timeline-reg"/>
