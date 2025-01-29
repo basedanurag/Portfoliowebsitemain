@@ -91,10 +91,10 @@ Our team's hard work, strategic thinking, and collaboration led us to victory, m
 
                                 </p>
                                 <div className="">
-                                    <span className="badge badge-light">#ReactJS</span>
-                                    <span className="badge badge-light">#JavaScript</span>
-                                    <span className="badge badge-light">#Python</span>
-                                    <span className="badge badge-light">#Django</span>
+                                    <span className="badge badge-light"></span>
+                                    <span className="badge badge-light"></span>
+                                    <span className="badge badge-light"></span>
+                                    <span className="badge badge-light"></span>
                                 </div>
                             </div>    
                         </VanillaTiltComponent>                   
