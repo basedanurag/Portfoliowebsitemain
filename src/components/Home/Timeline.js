@@ -70,25 +70,25 @@ Our team's hard work, strategic thinking, and collaboration led us to victory, m
                         <img src={Mars} alt='Planet' className="time-img-even"/>
                         
                         <div className="timeline-time">
-                            May 2022 - July 2022
+                        2025
                         </div>
                         <VanillaTiltComponent options={tiltOptions}>
                             <div className="timeline-content">
                                 <div className="timeline-title company">
                                     <BusinessIcon className="timeline-icon timeline-reg"/>
-                                    eInfoChips
+                                    Coming Soom
                                 </div>
                                 <div className="timeline-title ">
                                     <WorkspacePremiumIcon className="timeline-reg"/>
-                                    Summer Intern 
+                                    
                                 </div>
                                 <div className="timeline-title ">
                                     <LocationOnIcon className="timeline-reg"/>
-                                    Remote
+                                
                                 </div>
                             
-                                <p> Worked on SEO Optimization to achieve higher search rank by employing Django & ReactJS.
-                                    • Worked on an analytic dashboard that keeps track of search words for future utilization to increase traffic
+                                <p> 
+
                                 </p>
                                 <div className="">
                                     <span className="badge badge-light">#ReactJS</span>
