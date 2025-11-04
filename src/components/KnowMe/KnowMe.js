@@ -1,11 +1,6 @@
 import React from "react";
 import Particlecopy from "../Particlecopy";
-// Import certificate images
-// import cert1 from "../../Assets/Images/certificates/English 001.png";
-// import cert2 from "../../Assets/Images/certificates/English 002.png";
-// import cert3 from "../../Assets/Images/certificates/English 003.png";
-// import cert4 from "../../Assets/Images/certificates/English 004.png";
-// import cert5 from "../../Assets/Images/certificates/English 005.png";
+// Certificate images
 import cert160 from "../../Assets/Images/certificates/Java DSA 160 days.png";
 import internshipCert from "../../Assets/Images/certificates/internship.png";
 import certTreasure from "../../Assets/Images/certificates/TreasureHunt.png";

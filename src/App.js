@@ -9,7 +9,7 @@ import Download from "./components/Downloads/download";
  import KnowMe from "./components/KnowMe/KnowMe";
 import Projects from "./components/Projects/Projects";
 import GetInTouch from "./components/GetInTouch/GetInTouch";
-import Wrapper from "./components/Wrapper";
+// Wrapper is imported inside pages where needed; removed global import to avoid unused import warning
 
 import {
   BrowserRouter as Router,
