@@ -8,7 +8,7 @@ import Timeline from "./Timeline.js";
 import { motion } from "framer-motion";
 import E1 from "../GetInTouch/Earth/E1.js";
 import Heading from "../Extra/Heading/Heading.js";
-// import Saturn from "../../Assets/Images/Home/Saturn.png";
+  import Saturn from "../../Assets/Images/Home/Saturn.png";
 import {
   AiFillGithub,
   AiFillInstagram,
@@ -106,16 +106,7 @@ function Home() {
                     <FaLinkedinIn />
                   </a>
                 </li>
-                <li className="social-icons">
-                  <a
-                    href="https://www.instagram.com/basedanurag"
-                    target="_blank"
-                    rel="noreferrer"
-                    className="icon-colour home-social-icons"
-                  >
-                    <AiFillInstagram />
-                  </a>
-                </li>
+                
               </ul>
             </Col>
           </Row>
