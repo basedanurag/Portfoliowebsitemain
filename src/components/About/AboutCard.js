@@ -10,15 +10,14 @@ function AboutCard() {
                   Know Who <strong className="purple">I'm</strong>
                 </h1>
         <blockquote className="blockquote mb-0">
-          <p style={{ textAlign: "justify" }}>
+          <p style={{ textAlign: "left" }}>
             Hi Everyone, I am <span className="purple">Anurag Srivastava </span>
             from <span className="purple"> New Delhi, India.</span>
-            <br /> I am a Second Year student, pursuing my Bachelor's
+             I am a Pre Final Year student, pursuing my Bachelor's
             in Computer Science at <span className="purple">Abdul Kalam Technical University.</span>
-            <br />
-            Additionally, I am enthusiastic about <span className="purple">Web-development, System Design, Algorithms & Problem-Solving.</span>
-            <br />
-            <br />
+            
+            Additionally, I am enthusiastic about <span className="purple"> Web-development(Backend Development), System Design, Algorithms & Problem-Solving,  Artificialintelligence.</span>
+            <br/>
             Some of my hobbies are 
           </p>
           <ul>
