@@ -11,7 +11,7 @@ export let projectsList = [
     {
          
         ind: 2,
-        src: './Images/Projects/text.png',
+        src: './Images/Projects/CyberVayuNexusLogo.png',
         desc: [' Cyber Vayu Nexus is an AI-powered defense project designed to detect and classify drones in real time using computer vision and deep learning. Built with a Python-based GUI, it provides a visual interface for monitoring aerial activity, identifying potential threats, and alerting operators instantly.The system leverages OpenCV, TensorFlow, and image processing algorithms to analyze live video feeds and distinguish between drones and other flying objects. It’s optimized for real-time inference and situational awareness in defense environments.Key Highlights:Built a fully interactive Python GUI for real-time drone detection and tracking.Integrated deep learning models for accurate object recognition.Designed to assist defense and security teams in counter-drone operations.Recognized and shortlisted under the Government of India’s Yukti Innovation Program (2025) for its national security application.'],
         title: 'CyberVayuNexus',
         tech : 'Python,YoloV8, OpenCV, TensorFlow, Tkinter, NumPy',
@@ -22,7 +22,7 @@ export let projectsList = [
     {
         
         ind: 3,
-        src: './Images/Projects/text.png',
+        src: './Images/Projects/KSHETRA.png',
         desc: ['KSHETRA is a Rust-powered geographic intelligence system designed to provide real-time analysis and visualization of spatial and environmental data. It combines high-performance Rust backend logic with a modern Vite + React frontend, enabling secure, scalable, and lightning-fast geospatial computations. The platform processes and maps regional datasets to support smart governance, defense planning, and resource optimization. KSHETRA’s modular architecture makes it adaptable for both centralized dashboards and decentralized node-based deployments, ensuring reliability even in low-connectivity environments. '],
         title: 'KSHETRA',
         tech : 'Rust(Backend) + IC-CDK, VITE (frontend)',
