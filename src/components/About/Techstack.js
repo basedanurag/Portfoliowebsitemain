@@ -16,7 +16,6 @@ import {
   DiDocker,
   DiMysql,
   DiRust,
-  Di,
   DiPostgresql,
   DiRedis,
   DiIntellij,
