@@ -8,7 +8,7 @@ import Edu from "./Edu.js";
 import aktu from "../../Assets/Images/Unis/aktu.png";
 import LeetcodeStreak1 from "../../Assets/Images/Leetcode/leetcode.png";
 import LeetcodeStreak2 from "../../Assets/Images/Leetcode/github.png";
-import Anurag from "../../Assets/Images/ai profile image.png";
+import Anurag from "../../Assets/Images/Anurag.png";
 import Heading from "../Extra/Heading/Heading.js";
 import "./About.css";
 import Info from "./Info.js";
@@ -69,7 +69,7 @@ function About() {
                   visible: { opacity: 1, x: 0, transition: { delay: 0.5, ease: "easeInOut" } },
                 }}>
                  
-                  <Edu name={'Abdul Kalam Technical University'} imgsrc={aktu} degree={'Bachelors:'} specialization={'Computer Science and Engineering'} imgbg={aktu} cgpa={'7.45 / 10.0'} location={'Lucknow , India'} sub={'AI, ML, Design & Analysis of Algorithms, Advanced Web-dev, Cloud Computing'}/>
+                  <Edu name={'Abdul Kalam Technical University'} imgsrc={aktu} degree={'Bachelors:'} specialization={'Computer Science and Engineering'} imgbg={aktu} cgpa={'7.45 / 10.0'} location={'Lucknow , India'} sub={'AI, ML, Design & Analysis of Algorithms, Backend Development, Cloud Computing'}/>
                 </motion.div>
             </Col>
           </Row>

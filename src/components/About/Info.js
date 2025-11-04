@@ -15,7 +15,7 @@ const Info = () => {
                     <div className="info-content">
                         <VerifiedIcon className='info-icon' />
                         <div className="details">
-                           Total more than 100 problems solved across all platforms
+                           Total more than 500 problems solved across all platforms
                         </div>
                     </div>
                 </div>
@@ -31,7 +31,7 @@ const Info = () => {
                     <div className="info-content">
                         <GppGoodIcon className='info-icon' />
                         <div className="details">
-                            More than 100 problems solved on Leetcode
+                            More than 300 problems solved on Leetcode
                         </div>
                     </div>
                 </div>
@@ -47,7 +47,7 @@ const Info = () => {
                     <div className="info-content">
                         <AddTaskIcon className='info-icon'/>
                         <div className="details">
-                            0+ Contests attended
+                            Completed 160 days of GFG challenge
                         </div>
                     </div>
                 </div>
