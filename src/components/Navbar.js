@@ -90,12 +90,12 @@ function NavBar() {
                 <AiOutlineMessage style={{ marginBottom: "2px" }} /> Get-In-Touch
               </Nav.Link>
             </Nav.Item>
-{/* 
+{
             <Nav.Item>
               <Nav.Link as={Link} to="/knowme" onClick={() => updateExpanded(false)} >
-                <AiOutlineUser style={{ marginBottom: "2px" }} /> Know-Me
+                <AiOutlineUser style={{ marginBottom: "2px" }} /> Certifications
               </Nav.Link>
-            </Nav.Item> */}
+            </Nav.Item> }
 
           </Nav>
         </Navbar.Collapse>
